@@ -1,6 +1,8 @@
 # API-REST-Sist_distr
 Repositório para abrigar a A3 de Sistemas Distribuídos. API Rest
 
+**Necessário rodar ```npm install``` para obter node-modules**
+
 
 ### Dados dos Alunos
 - Eduardo Augusto Santos Pinheiro - RA 12823213606
